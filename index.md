@@ -1,20 +1,16 @@
-#Hello World!
-##Aditya Saini
+# WEEK 2 LAB REPORT 
+# BY ADITYA SAINI
 
-*This should be italic*
+## INSTALLING AND DOWNLOADING VISUAL STUDIO CODE:
 
-**This is expected to be bold**
+For downloading VS code, go to the Visual Studio Code website linked below:
+[https://code.visualstudio.com/](http://a.com) 
+Then follow the instructions to download and install it on your computer. There are versions for all the
+major operating systems, like OSX (for Macs) and Windows (for PCs).
 
+When it is installed, you should be able to open a window that looks like this (it might
+have different colors, or a different menu bar, depending on your system and settings):
 
-* First element of list
-* Second element
+![https://drive.google.com/file/d/1Xi4kNqVkzcAoTD3Zntj1dRtR-GHj2SDh/view?usp=sharing](http://url/a.png)
 
-- Other type of list
-- Second element of that list
-
-```
-# code block
-print 'Hello'
-print 'Thanks for visiting'
-```
-#Thanks again#
+## REMOTELY CONNECTING
