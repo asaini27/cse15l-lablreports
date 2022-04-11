@@ -53,6 +53,9 @@ of the other group members’ username
 * cat /home/linux/ieng6/cs15lsp22/public/hello.txt
   
 The following screenshot shows the command cd and ls -lat:
+  
+<img width="959" alt="Screenshot 2022-03-31 at 7 22 00 PM" src="https://user-images.githubusercontent.com/103229052/162648484-cf562282-3fd5-4c2e-b875-332e98ea355b.png">
+  
 ![https://drive.google.com/file/d/1hWtDNb_u5-ieL2DxCM5hJpZijM7MeZkM/view?usp=sharing](http://url/a.png)
 
   
