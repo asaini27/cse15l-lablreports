@@ -11,7 +11,7 @@ major operating systems, like OSX (for Macs) and Windows (for PCs).
 When it is installed, you should be able to open a window that looks like this (it might
 have different colors, or a different menu bar, depending on your system and settings):
 
-
+<img width="1440" alt="Screenshot 2022-04-09 at 6 23 52 PM" src="https://user-images.githubusercontent.com/103229052/162649766-cfb51094-95a1-4d70-86d7-1bc12d6313f0.png">
 
 ![](https://drive.google.com/file/d/1Xi4kNqVkzcAoTD3Zntj1dRtR-GHj2SDh/view?usp=sharing)
 
