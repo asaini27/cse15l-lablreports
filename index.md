@@ -4,21 +4,21 @@
 ## INSTALLING AND DOWNLOADING VISUAL STUDIO CODE:
 
 For downloading VS code, go to the Visual Studio Code website linked below:
-https://code.visualstudio.com/(http://a.com) 
+[VS CODE LINK](https://code.visualstudio.com/(http://a.com) 
 Then follow the instructions to download and install it on your computer. There are versions for all the
 major operating systems, like OSX (for Macs) and Windows (for PCs).
 
 When it is installed, you should be able to open a window that looks like this (it might
 have different colors, or a different menu bar, depending on your system and settings):
 
-!https://drive.google.com/file/d/1Xi4kNqVkzcAoTD3Zntj1dRtR-GHj2SDh/view?usp=sharing(http://url/a.png)
+![](https://drive.google.com/file/d/1Xi4kNqVkzcAoTD3Zntj1dRtR-GHj2SDh/view?usp=sharing)
 
 ## REMOTELY CONNECTING
 
 If working on windows, then install open ssh.
 
 We would need to find a our CSE 15L account name and password as well through the link attached below. 
-https://sdacs.ucsd.edu/~icc/index.php(http://a.com)
+[](https://sdacs.ucsd.edu/~icc/index.php(http://a.com)
 
 Now we follow the steps to connect to a remote host
 
@@ -34,7 +34,7 @@ Now we follow the steps to connect to a remote host
 * Then we give our password and once we give our password we would be logged in
 
 Something similar to this screenshot should be there.
-![https://drive.google.com/file/d/1C12yGaRF-R52el4OjPxsIkXoTFttUbao/view?usp=sharing](http://url/a.png)
+![](https://drive.google.com/file/d/1C12yGaRF-R52el4OjPxsIkXoTFttUbao/view?usp=sharing])
 
 After this our terminal is connected to the computer in the CSE basement.
 
@@ -54,9 +54,7 @@ of the other group members’ username
   
 The following screenshot shows the command cd and ls -lat:
   
-<img width="959" alt="Screenshot 2022-03-31 at 7 22 00 PM" src="https://user-images.githubusercontent.com/103229052/162648484-cf562282-3fd5-4c2e-b875-332e98ea355b.png">
-  
-![https://drive.google.com/file/d/1hWtDNb_u5-ieL2DxCM5hJpZijM7MeZkM/view?usp=sharing](http://url/a.png)
+![](https://drive.google.com/file/d/1hWtDNb_u5-ieL2DxCM5hJpZijM7MeZkM/view?usp=sharing](http://url/a.png)
 
   
   
