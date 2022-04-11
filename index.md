@@ -13,7 +13,7 @@ have different colors, or a different menu bar, depending on your system and set
 
 
 
-![](<https://drive.google.com/file/d/1Xi4kNqVkzcAoTD3Zntj1dRtR-GHj2SDh/view?usp=sharing>)
+![](https://drive.google.com/file/d/1Xi4kNqVkzcAoTD3Zntj1dRtR-GHj2SDh/view?usp=sharing)
 
 ## REMOTELY CONNECTING
 
