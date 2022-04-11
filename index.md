@@ -4,7 +4,7 @@
 ## INSTALLING AND DOWNLOADING VISUAL STUDIO CODE:
 
 For downloading VS code, go to the Visual Studio Code website linked below:
-[VS CODE LINK](https://code.visualstudio.com/(http://a.com) 
+[VS CODE LINK](<https://code.visualstudio.com/(http://a.com>) 
 Then follow the instructions to download and install it on your computer. There are versions for all the
 major operating systems, like OSX (for Macs) and Windows (for PCs).
 
@@ -20,7 +20,7 @@ have different colors, or a different menu bar, depending on your system and set
 If working on windows, then install open ssh.
 
 We would need to find a our CSE 15L account name and password as well through the link attached below. 
-[LINK](https://sdacs.ucsd.edu/~icc/index.php(http://a.com)
+[LINK](<https://sdacs.ucsd.edu/~icc/index.php(http://a.com>)
 
 Now we follow the steps to connect to a remote host
 
