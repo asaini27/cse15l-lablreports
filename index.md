@@ -27,7 +27,9 @@ Now we follow the steps to connect to a remote host
 
 * Open terminal in VS code and command will look like this, but with the zz replaced by the
   letters in your course-specific account.
+  ```
   $ ssh cs15lsp22zz@ieng6.ucsd.edu
+  ```
 
 * After this you would see a message like this:
   Are you sure you want to continue connecting
@@ -86,7 +88,9 @@ Now we run this file and we would see the following result :
   
 Then, in the terminal from the directory where you made this file, run this command (as
 usually, using your username):
+```
 scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
+```
 
 Then, log into ieng6 with ssh again, and use ls. You should see the file there in your
 home directory! Now you can run it on the ieng6 computer using javac and java.
@@ -105,9 +109,34 @@ key. You copy the public key to a particular location on the server, and the pri
 a particular location on the client. Then, the ssh command can use the pair of files in
 place of your password.
   
+Here’s what you should run to set this up:
 
+```
+# on client (your computer)
+$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key
+(/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
+Enter passphrase (empty for no passphrase):
+```
+** Note: Make sure to not add a paraphrase
 
+We will see a similar desktop:
+<img width="1074" alt="Screenshot 2022-03-31 at 7 36 18 PM" src="https://user-images.githubusercontent.com/103229052/162652893-74ad016e-1b37-495d-a42a-873d30dbb0e0.png">
   
+## OPTIMIZING REMOTE RUNNING 
 
+* Write a command in quotes at the end of an ssh command to directly
+run it on the remote server, then exit. For example, this command will log in and
+list the home directory on the remote server:
+```
+$ ssh cs15lsp22zz@ieng6.ucsd.edu "ls"      
+```
+* Using semi colon to run multiple commands on the same line in most terminals. Eg:
+```
+  $ cp WhereAmI.java OtherMain.java; javac OtherMain.java;
+java WhereAmI
+```
+* Use the up arrow key to run the previous commands. 
   
   
