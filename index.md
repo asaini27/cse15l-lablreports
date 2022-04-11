@@ -4,6 +4,7 @@
 ## INSTALLING AND DOWNLOADING VISUAL STUDIO CODE:
 
 For downloading VS code, go to the Visual Studio Code website linked below:
+[https://code.visualstudio.com/(http://a.com]()
 [VS CODE LINK](https://code.visualstudio.com/(http://a.com) 
 Then follow the instructions to download and install it on your computer. There are versions for all the
 major operating systems, like OSX (for Macs) and Windows (for PCs).
@@ -11,7 +12,9 @@ major operating systems, like OSX (for Macs) and Windows (for PCs).
 When it is installed, you should be able to open a window that looks like this (it might
 have different colors, or a different menu bar, depending on your system and settings):
 
-![](https://drive.google.com/file/d/1Xi4kNqVkzcAoTD3Zntj1dRtR-GHj2SDh/view?usp=sharing)
+<img width="1440" alt="Screenshot 2022-04-09 at 6 23 52 PM" src="https://user-images.githubusercontent.com/103229052/162649766-cfb51094-95a1-4d70-86d7-1bc12d6313f0.png">
+
+![https://drive.google.com/file/d/1Xi4kNqVkzcAoTD3Zntj1dRtR-GHj2SDh/view?usp=sharing]()
 
 ## REMOTELY CONNECTING
 
@@ -34,7 +37,10 @@ Now we follow the steps to connect to a remote host
 * Then we give our password and once we give our password we would be logged in
 
 Something similar to this screenshot should be there.
-![](https://drive.google.com/file/d/1C12yGaRF-R52el4OjPxsIkXoTFttUbao/view?usp=sharing])
+<img width="854" alt="Screenshot 2022-04-10 at 5 32 33 PM" src="https://user-images.githubusercontent.com/103229052/162649709-bc454148-3055-479e-91d8-881f5e2310c1.png">
+
+
+![https://drive.google.com/file/d/1C12yGaRF-R52el4OjPxsIkXoTFttUbao/view?usp=sharing]()
 
 After this our terminal is connected to the computer in the CSE basement.
 
@@ -53,8 +59,46 @@ of the other group members’ username
 * cat /home/linux/ieng6/cs15lsp22/public/hello.txt
   
 The following screenshot shows the command cd and ls -lat:
+  <img width="959" alt="Screenshot 2022-03-31 at 7 22 00 PM" src="https://user-images.githubusercontent.com/103229052/162649607-022b25ee-bac3-431e-a08b-4a7f1fb69048.png">
+
+![https://drive.google.com/file/d/1hWtDNb_u5-ieL2DxCM5hJpZijM7MeZkM/view?usp=sharing](http://url/a.png]()
   
-![](https://drive.google.com/file/d/1hWtDNb_u5-ieL2DxCM5hJpZijM7MeZkM/view?usp=sharing](http://url/a.png)
+## MOVING FILES WITH SCP
+  
+We’ll now see a way to copy a file (or many files!) from your computer to a remote
+computer. The command is called scp, and we will always run it from the client (that
+means from your computer, not logged into ieng6). First we create a file named WhereAmI.java with the follwoing code:
+  
+```
+# code block
+class WhereAmI {
+  public static void main(String[] args) {
+    System.out.println(System.getProperty("os.name"));
+    System.out.println(System.getProperty("user.name"));
+    System.out.println(System.getProperty("user.home"));
+    System.out.println(System.getProperty("user.dir"));
+  }
+}
+```
+Now we run this file and we would see the following result : 
+  
+<img width="869" alt="Screenshot 2022-04-10 at 6 15 01 PM" src="https://user-images.githubusercontent.com/103229052/162649467-65d355bc-7a7b-4f94-b67e-7f96ce284cbc.png">
+  
+Then, in the terminal from the directory where you made this file, run this command (as
+usually, using your username):
+scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
+
+Then, log into ieng6 with ssh again, and use ls. You should see the file there in your
+home directory! Now you can run it on the ieng6 computer using javac and java.
+
+The following screenshot shows the whole method and the result: 
+  <img width="961" alt="Screenshot 2022-03-31 at 7 23 10 PM" src="https://user-images.githubusercontent.com/103229052/162650360-604ca86f-75eb-45c6-80fe-6562e0b724ad.png">
+
+  
+## SETTING AN SSH KEY
+  
+
+  
 
   
   
