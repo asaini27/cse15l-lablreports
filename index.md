@@ -96,7 +96,16 @@ The following screenshot shows the whole method and the result:
 
   
 ## SETTING AN SSH KEY
+
+Every time we log in or run scp, we have to type (or copy-paste) our
+password. This is frustrating, time consuming, and interrupts whatever task we were
+trying to do. there is a great solution – ssh keys. The idea behind ssh keys is that a
+program, called ssh-keygen, creates a pair of files called the public key and private
+key. You copy the public key to a particular location on the server, and the private key in
+a particular location on the client. Then, the ssh command can use the pair of files in
+place of your password.
   
+
 
   
 
