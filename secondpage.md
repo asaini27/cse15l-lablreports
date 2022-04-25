@@ -4,8 +4,10 @@
 
 ## ISSUE 1
 
+(ISSUE1)[https://github.com/asaini27/markdown-parser/blob/main/file4.md]
 *TRYING TO GET THE LINK WHEN IT IS IN THE FORMAT:*
 [NAME]!WEBSITE LINK?
+
 <img width="1279" alt="Screenshot 2022-04-24 at 9 14 08 PM" src="https://user-images.githubusercontent.com/103229052/165019787-aac98091-0c3c-4595-ba9e-66e6e2ad88f5.png">
 
 ## ISSUE 1 FIXED
