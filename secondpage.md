@@ -24,7 +24,7 @@
 ## ISSUE 3
 
 *TRYING TO GET THE LINK WHEN IT IS IN THE FORMAT:*
-[NAME]!*WEBSITE LINK*!
+[NAME]!* WEBSITE LINK *!
 <img width="1273" alt="Screenshot 2022-04-24 at 9 22 28 PM" src="https://user-images.githubusercontent.com/103229052/165020596-2fc8ad00-f4ca-4f3b-93be-1d39732d0b88.png">
 <img width="1359" alt="Screenshot 2022-04-24 at 9 22 37 PM" src="https://user-images.githubusercontent.com/103229052/165020617-16f62b1c-c56d-45a3-b0e7-9a7d69fd3030.png">
 
