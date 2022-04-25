@@ -4,7 +4,6 @@
 
 ## ISSUE 1
 
-(ISSUE1)[<https://github.com/asaini27/markdown-parser/blob/main/file4.md>]
 (ISSUE1)[https://github.com/asaini27/markdown-parser/blob/main/file4.md]
 *TRYING TO GET THE LINK WHEN IT IS IN THE FORMAT:*
 [NAME]!WEBSITE LINK?
