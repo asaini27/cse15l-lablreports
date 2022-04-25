@@ -4,7 +4,7 @@
 
 ## ISSUE 1
 
-(ISSUE1)[https://github.com/asaini27/markdown-parser/blob/main/file2.md]
+[ISSUE 1](https://github.com/asaini27/markdown-parser/blob/main/file2.md)
 
 *TRYING TO GET THE LINK WHEN IT IS IN THE FORMAT:*
 [NAME]!WEBSITE LINK?
@@ -17,7 +17,7 @@
 
 ## ISSUE 2 
 
-(ISSUE2)[https://github.com/asaini27/markdown-parser/blob/main/file4.md]
+[ISSUE 2](https://github.com/asaini27/markdown-parser/blob/main/file4.md)
 
 *TRYING TO GET THE LINK WHEN IT IS IN THE FORMAT:*
 (NAME)[WEBSITE LINK]
@@ -28,7 +28,7 @@
 
 ## ISSUE 3
 
-(ISSUE3)[https://github.com/asaini27/markdown-parser/blob/main/file5.md]
+[ISSUE 3](https://github.com/asaini27/markdown-parser/blob/main/file5.md)
 
 *TRYING TO GET THE LINK WHEN IT IS IN THE FORMAT:*
 [NAME]!* WEBSITE LINK *!
