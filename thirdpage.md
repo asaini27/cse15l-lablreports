@@ -46,10 +46,13 @@ Now while being logged in ieng6, compiling and running my tests:
 
 <img width="676" alt="Screenshot 2022-05-13 at 10 27 50 AM" src="https://user-images.githubusercontent.com/103229052/168373967-87c2e80b-0de9-4aa2-8ba0-6df71fad6d53.png">
 
-Now combining scp, ;, and ssh to copy the whole directory and run the tests in one line:
+Now combining scp, ;, and ssh to copy the whole directory and run the tests in one line, I get this:
 
+<img width="1214" alt="Screenshot 2022-05-13 at 12 33 29 PM" src="https://user-images.githubusercontent.com/103229052/168377292-3d3e0094-14d2-49e1-8b22-394c63a9f5f4.png">
 
+<img width="1222" alt="Screenshot 2022-05-13 at 12 33 52 PM" src="https://user-images.githubusercontent.com/103229052/168377315-0d93b45e-6df1-4589-bb20-a893d22b095f.png">
 
+<img width="1210" alt="Screenshot 2022-05-13 at 12 34 06 PM" src="https://user-images.githubusercontent.com/103229052/168377365-27a420d0-bd53-45eb-b1fb-ff36e32d595f.png">
 
 
 
