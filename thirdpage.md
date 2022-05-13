@@ -29,3 +29,7 @@ The image below depicts the result of using git commands while logged in ssh:
 
 <img width="695" alt="Screenshot 2022-05-12 at 7 34 07 PM" src="https://user-images.githubusercontent.com/103229052/168368128-8a30aae9-8132-48e5-8f9e-b140762d87b4.png">
 
+[LINK TO THE UPDATE MADE USING GIT COMMANDS ON TERMINAL](https://github.com/asaini27/markdown-parser/commit/64a38cf2b9d7af2b8bb75efe757543ac724f7857)
+
+
+
