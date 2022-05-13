@@ -32,4 +32,27 @@ The image below depicts the result of using git commands while logged in ssh:
 [LINK TO THE UPDATE MADE USING GIT COMMANDS ON TERMINAL](https://github.com/asaini27/markdown-parser/commit/64a38cf2b9d7af2b8bb75efe757543ac724f7857)
 
 
+# PART 3: Copy whole directories with scp -r
+
+Copying the markdown-parser directory to ieng6:
+
+<img width="977" alt="Screenshot 2022-05-12 at 7 39 02 PM" src="https://user-images.githubusercontent.com/103229052/168373604-574e8253-1d43-4c95-94f6-7698923ae629.png">
+
+<img width="1223" alt="Screenshot 2022-05-12 at 7 39 18 PM" src="https://user-images.githubusercontent.com/103229052/168373640-585cc30c-124b-4e73-8cae-b6fc2aa62e7d.png">
+
+<img width="685" alt="Screenshot 2022-05-12 at 7 40 06 PM" src="https://user-images.githubusercontent.com/103229052/168373774-dfbc6e23-7e39-4899-ae17-3bc932ee3dc7.png">
+
+Now while being logged in ieng6, compiling and running my tests:
+
+<img width="676" alt="Screenshot 2022-05-13 at 10 27 50 AM" src="https://user-images.githubusercontent.com/103229052/168373967-87c2e80b-0de9-4aa2-8ba0-6df71fad6d53.png">
+
+Now combining scp, ;, and ssh to copy the whole directory and run the tests in one line:
+
+
+
+
+
+
+
+
 
