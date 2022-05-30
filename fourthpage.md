@@ -74,8 +74,16 @@ reviewed file
 <img width="782" alt="Screenshot 2022-05-29 at 5 41 44 PM" src="https://user-images.githubusercontent.com/103229052/170902294-fb3b9286-d295-436e-b11e-83fd36965672.png">
 
 
+# QUESTIONS AND ANSWERS ON THE BASIS OF ABOVE TESTING THE CODE SNIPPETS
 
+# PART 1: 
+I don't think the code in my file could be changed in less than 10 lines for the given snippet 1 to work. The change I would suggest is longer, involved and redundant through a condition that will check for backticks and when the condition is true, then the program will run the code made for backticks. In addition I would have a extra for loop and arraylist to get the links for the program to run. 
 
+# PART 2:
+I don't think the code in my file could be changed in less than 10 lines for the given snippet 2 to work. Moreover all cases that use nested parentheses, brackets, and escape brackets due t my coding abilities and the way that I have written my code, it won't be possible to correct the program according to them. Similar to PART 1 the change I would suggest is longer, involved and redundant through a condition that will check for backticks and when the condition is true, then the program will run the code made for backticks.
+
+# PART 3:
+I don't think the code in my file could be changed in less than 10 lines for the given snippet 3 to work. Moreover all cases that use newlines, brackets, and parathesis due to my coding abilities and the way that I have written my code, it won't be possible to correct the program according to them. Similar to PART 1 ad PART 2 the change I would suggest is longer, involved and redundant through Identifying the string “https” as the start for currentIndex and to the end at a index of a new line. Again, there may be an extra for loop and ArrayList to get the same links if necessary.
 
 
 
