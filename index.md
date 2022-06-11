@@ -11,4 +11,4 @@ THE FOLLOWING IS THE LINK TO THE LAB REPORT:
 
 [LINK TO LAB REPORT 4](https://asaini27.github.io/cse15l-labreports/fourthpage.html)
 
-[LINK TO LAB REPORT 4](https://asaini27.github.io/cse15l-labreports/fifthpage.html)
+[LINK TO LAB REPORT 5](https://asaini27.github.io/cse15l-labreports/fifthpage.html)
